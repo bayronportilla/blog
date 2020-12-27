@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default.html
 title:  "Testing integration with MathJax"
 date:   2020-12-20 20:25:22 +0100
 categories: jekyll update
