@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Testing integration with MathJax"
+date:   2020-12-20 20:25:22 +0100
+categories: jekyll update
+usemathjax: true
+---
+
+Let's see how MathJax renders the following expression:
+
+$$ j=\int_0^\infty 2x dx $$
+
+What if we want in-line equations? $$F=-\nabla \Phi$$
+
+Y qué tal un post en español?
+
+And how about a fraction $$\displaystyle x=\frac{3}{2} M_\odot$$
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
